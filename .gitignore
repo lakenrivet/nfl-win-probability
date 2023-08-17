@@ -48,5 +48,8 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
-
+# processed data too large
 processed_data/
+
+# remove DS_Store file
+*.DS_Store
